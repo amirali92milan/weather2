@@ -183,8 +183,8 @@
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr ;
-    width: 27rem;
-    height: 10rem;
+    width: 20rem;
+    height: 6rem;
     margin-top: 1rem;
     border-radius: 30px;
     padding: 20px;
